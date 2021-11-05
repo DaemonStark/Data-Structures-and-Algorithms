@@ -10,6 +10,7 @@
   - Kth Smallest Element
   - Max and Min in an Array
   - Reverse the Array
+  - Sort an array of 0s, 1s and 2s
 
 - Linked List
 
