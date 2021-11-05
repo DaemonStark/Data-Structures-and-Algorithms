@@ -1,11 +1,13 @@
+# Create a New Node
 class Node:
-    def __init__(self, item):
+    def __init__(self, item):   # initialize the new node
         self.item = item
         self.next = None
 
 
+# This Class implements the linked list.
 class Linkedlist:
-    def __init__(self):
+    def __init__(self):     # Initialize head to None
         self.head = None
 
     # Insert at the beginning
